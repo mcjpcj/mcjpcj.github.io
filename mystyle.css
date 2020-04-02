@@ -6,3 +6,15 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+.center{
+    position:absolute;
+    display:block;
+    height:100px;
+    width:100px;
+    left:50%;
+    top:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+    background-color:white;
+}
